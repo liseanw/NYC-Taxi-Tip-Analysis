@@ -1,8 +1,7 @@
-# MAST30034 Project 1 - Quantitative Analysis
+# Quantitative Analysis of NYC Taxi Tips (2019-2020)
 - Student Name: Li Sean Wong
 - Student ID: 1074679
-- Due Date: Monday 16th of August 11:59:00 am (AEST).
-- Report Link: _Insert Report Link if applicable_
+- MAST30034 Project 1
 
 # Dependencies
 - Language: Python 3.8.3
