@@ -1,12 +1,8 @@
+# Quantitative Analysis of NYC Taxi Tips (2019-2020)
 # Summary
 This project aims to depict the relationship between tip amount and statistics of both Yellow and Green trips happening within zones across the boroughs of New York City; the Bronx, Brooklyn, Manhattan, Queens, and Staten Island, and an additional borough; the EWR Airport. This project aims to predict the tip amount for the respective taxi in their respective borough in 2020 using data collected in 2019.
 
-Please read 'Project_1_Visualisation_Report.pdf' to read about our methods, analyses, findings, recommendations and conclusions.
-
-# Quantitative Analysis of NYC Taxi Tips (2019-2020)
-- Student Name: Li Sean Wong
-- Student ID: 1074679
-- MAST30034 Project 1
+Please read 'Report.pdf' to read about my methods, analyses, findings, recommendations and conclusions.
 
 # Dependencies
 - Language: Python 3.8.3
